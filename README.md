@@ -14,4 +14,4 @@ https://nbviewer.jupyter.org/
 
 Url :
 
-https://gitlab.com/gerisse/python-gitlab/blob/master/Arduino_niveau_1.ipynb
+https://github.com/gerisse/python-github/blob/master/Arduino_niveau_1.ipynb
