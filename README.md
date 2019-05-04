@@ -20,3 +20,6 @@ https://github.com/gerisse/activite0/blob/master/activite0.ipynb
 Activite1 :
 https://github.com/gerisse/activite1/blob/master/activite1.ipynb
 
+Activite 2 :
+https://github.com/gerisse/activite2/blob/master/activite2.ipynb
+
