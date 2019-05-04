@@ -17,3 +17,6 @@ https://github.com/gerisse/python-github/blob/master/tribu/Exploitation%20graphi
 Activite0 :
 https://github.com/gerisse/activite0/blob/master/activite0.ipynb
 
+Activite1 :
+https://github.com/gerisse/activite1/blob/master/activite1.ipynb
+
