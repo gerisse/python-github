@@ -11,13 +11,10 @@ https://nbviewer.jupyter.org/
 
 URLs :
 
-
-https://github.com/gerisse/python-github/blob/master/tribu/Exploitation%20graphique%20des%20donn%C3%A9es%20Arduino%20en%20temps%20r%C3%A9el%20avec%20Python/graphe_temps_reel.ipynb
-
-Activite0 :
+Activite0 : importation de modules
 https://github.com/gerisse/activite0/blob/master/activite0.ipynb
 
-Activite1 :
+Activite1 : Lecture d'un fichier csv
 https://github.com/gerisse/activite1/blob/master/activite1.ipynb
 
 Activite 2 :
