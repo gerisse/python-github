@@ -1,15 +1,15 @@
-# python-gitlab
+# python-github-jupyter
 
 Regroupe des notebooks jupyter pour apprentissage Python.
 
-resources :
+Ressources venant de :
 
 https://tribu.phm.education.gouv.fr/portal/pagemarker/1/cms/default-domain/workspaces/physique-computationnelle
+(Merci à eux!)
 
-Viewer notebook :
 https://nbviewer.jupyter.org/
 
-URLs :
+URLs (à charger dans le Viewer notebook):
 
 Activite0 : importation de modules
 https://github.com/gerisse/activite0/blob/master/activite0.ipynb
