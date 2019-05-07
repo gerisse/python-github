@@ -9,7 +9,8 @@ void setup(){
 void loop(){
     mesure = analogRead(0); //Lecture de l'information sur l'entrée analogique A0
     Serial.print(millis()); //Envoie de la valeur temps vers la liaison série (ou USB)
-    Serial.print("\t");     //Envoie d'une tabulation : \t comme séparateur
-    Serial.println(mesure); //Envoie de la mesure puis retour à la ligne
-    delay(5);
+    Serial.print("ms \t");     //Envoie d'une tabulation : \t comme séparateur
+    Serial.print(mesure); //Envoie de la mesure puis retour à la ligne
+    Serial.println(" sans unité"); 
+    delay(500);
 }
