@@ -7,7 +7,7 @@ Ressources venant de :
 https://tribu.phm.education.gouv.fr/portal/pagemarker/1/cms/default-domain/workspaces/physique-computationnelle
 (Merci à eux!)
 
-**URLs (à charger dans le [Viewer notebook](https://nbviewer.jupyter.org/) ) :**
+**URLs (à charger dans le [Viewer notebook](https://nbviewer.jupyter.org/) ou dans [mybinder.org](https://mybinder.org/) :**
 
 Activite0 : notebook ;importation de modules ;discretisation  
 https://github.com/gerisse/activite0/blob/master/activite0.ipynb
